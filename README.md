@@ -1,0 +1,2 @@
+# kncsorotity
+koa nde chuli
